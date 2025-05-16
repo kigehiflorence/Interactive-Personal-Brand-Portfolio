@@ -1,2 +1,2 @@
-# -Interactive-Personal-Brand-Portfolio
+# Interactive-Personal-Brand-Portfolio
 My Personal Portfolio
